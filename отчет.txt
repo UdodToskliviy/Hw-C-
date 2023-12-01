@@ -1,0 +1,120 @@
+В этом файле содержатся примеры ввода и вывода для каждой из решенных мной задач
+
+№1
+input base 1, after baze 2 and height of your figure
+5
+7
+2
+Area of your figure equals 12
+
+№2
+input radius of your circle 
+1
+lenght of your circle equals 6.28 and area of your circle equals 3.14
+
+№3
+input cathethus 1, after cathethus 2 of your right triangle 
+3
+4
+area of your triangle equals 6 and hypotenuse equals 5
+
+№4
+input four-digit number 
+1234
+sum of digits equals 10
+
+№5
+input x-coordinate and after y-coordinate of your point 
+3
+5
+in polar coordinates your point has 5.83095 radius and 1.03038 angle
+
+№6
+input radius and after angle of your point in polar coordinates 
+5.83095
+1.03038
+your point has coordinates (2.99998, 5.00001)
+
+№7
+input quotient a, after quotient b and afer quotient c 
+1
+-1
+-2
+roots are 2 and -1
+
+№8
+input sides of your triangle 
+12
+12
+12
+медианы финально�о треугольника рaвны 9, 9 и 9
+
+№9
+input number of seconds passed 
+86399
+from the beginning of the day 23 hours 59 minutes and 59 seconds passed
+
+№10
+input sides of your triangle 
+15.001
+15.001
+12
+your triangle is isoscess
+
+№11
+input your price 
+1001.1
+you must pay 900.99
+
+№12
+input your height and after your mass 
+175
+90
+you need to lose weight
+
+№13
+try to guess multiplication of two random numbers from 1 to 9 each 
+18
+You guessed not right
+
+№14
+input number of day (from 1 to 7) when the conversation goes and after time of talking 
+6
+100
+you will spend 80 units of money
+
+№15
+input the number of your month 
+11
+your month is november, autumn
+
+№16
+input the number of your ticket 
+123501
+your ticket is happy
+
+№17
+input amount of money, which you have 
+55
+u vas 55 копеек
+
+№18
+input your 4-digit number 
+6336
+your number is palindrom
+
+№19
+input your 3-digit number and after any number 
+233
+8
+multiplication of digits of a > b, summ of digits of a is not multiply of 7
+
+№20
+input sides of your rectangles first with sides a, b and second with sides c, d 
+3
+4
+2
+3
+it is possible to fit the second one into first one, according to the given rule
+
+made by Belyshev I.
